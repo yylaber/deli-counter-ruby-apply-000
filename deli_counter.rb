@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> db8644e88df8e4e2f90ecd4e9c554909be812aae
 def line(line)
   if line.empty?
     puts "The line is currently empty."
